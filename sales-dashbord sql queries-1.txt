@@ -1,0 +1,4 @@
+USE sales_dashboard;
+SHOW TABLES;
+
+SELECT * FROM `sales dataset` LIMIT 10;
