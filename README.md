@@ -32,6 +32,10 @@ This project analyzes sales data using MySQL, Excel, and Power BI. The objective
 - SQL Queries (.sql)
 - Power BI Dashboard (.pbix)
 - Dashboard Screenshots (.png)
+  
+## Dashboard Preview
+
+![Sales Dashboard](Screenshot%202026-06-15%20102218.png)
 
 ## Author
 Polneni Srinithya
