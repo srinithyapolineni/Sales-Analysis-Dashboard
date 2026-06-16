@@ -5,7 +5,7 @@ This project analyzes sales data using MySQL, Excel, and Power BI. The objective
 
 ## Tools Used
 - MySQL
-- Excel
+- Microsoft Excel
 - Power BI
 - GitHub
 
@@ -33,9 +33,9 @@ This project analyzes sales data using MySQL, Excel, and Power BI. The objective
 - Power BI Dashboard (.pbix)
 - Dashboard Screenshots (.png)
   
+  ## Author
+Polneni Srinithya
+
 ## Dashboard Preview
 
 ![Sales Dashboard](Screenshot%202026-06-15%20102218.png)
-
-## Author
-Polneni Srinithya
